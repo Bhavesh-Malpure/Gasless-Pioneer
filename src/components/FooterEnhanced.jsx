@@ -272,7 +272,7 @@ export function FooterEnhanced() {
                 },
                 {
                   label: "GitHub",
-                  href: "https://github.com/your-github-repo",
+                  href: "https://github.com/Bhavesh-Malpure/Gasless-Pioneer.git",
                 },
               ].map((link) => (
                 <a
